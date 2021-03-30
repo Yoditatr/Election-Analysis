@@ -2,13 +2,11 @@
 
 ## Overview of Election Audit
 
-##### A colorado board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
+##### A colorado board of Elections commission has requested some additional data to complete the election audit of a recent local congressional election. The commission has requested some additional data to complete the audit:
 
-##### 1. Calculate the total number of votes cast. 
-##### 2. Get a complete list of candidates who received votes. 
-##### 3. Calculate the total number of votes each candidate received. 
-##### 4. Calculate the percentage of votes each candidate won. 
-##### 5. Determine the winner of the election basd on popular vote. 
+##### 1. The voter turnout for each county
+##### 2. The percentage of votes from each county out of the total count
+##### 3. The county with the highest turnout
 
 
 ## Election Audit Results 
