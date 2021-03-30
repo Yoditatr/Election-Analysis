@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-##### A colorado board of Elections commission has requested some additional data to complete the election audit of a recent local congressional election. The commission has requested some additional data to complete the audit:
+##### A colorado board of Elections Commission has requested some additional data to complete the election audit of a recent local congressional election. The commission has requested some additional data to complete the audit:
 
 ##### 1. The voter turnout for each county
 ##### 2. The percentage of votes from each county out of the total count
