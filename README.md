@@ -13,11 +13,14 @@
 ## Resources 
 
 ###### - Data source: Election_results.csv
-###### - Software: Python 3.7.1, Visual studio code 
+###### - Software: Python 3.7.1, Visual Studio Code 1.54.3
 
 ## Summary 
-###### The analysis of the election sho that 
+###### The analysis of the election shows that 
 ###### - there were 369,711  votes casted 
 ###### - The candidates are Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane
 ###### - The candidates returns were 23.0% (85,213), 73.8% (272,892), and 3.1% (11,606) respectiverly
-###### - The winner of the election was Diana DeGetter with 73.8% of the vote and 272,892 botes. 
+###### - The winner of the election was Diana DeGetter with 73.8% of the vote and 272,892 votes. 
+###### - There were three counties namely Jefferson, Denver, and Arapahoe
+###### - The County votes were 10.5% (38,855), 82.8% (306,055), and 6.7% (24,801) respectively
+###### - The county with the largest turnout was Arapahoe 
