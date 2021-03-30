@@ -1,6 +1,6 @@
 # Election-Analysis
 
-## Project overview
+## Overview of Election Audit
 
 ##### A colorado board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
 
@@ -10,13 +10,11 @@
 ##### 4. Calculate the percentage of votes each candidate won. 
 ##### 5. Determine the winner of the election basd on popular vote. 
 
-## Resources 
 
-###### - Data source: Election_results.csv
-###### - Software: Python 3.7.1, Visual Studio Code 1.54.3
+## Election Audit Results 
 
-## Summary 
-###### The analysis of the election shows that. 
+##### The analysis of the election shows that. 
+
 ###### - There were 369,711  votes casted. 
 ###### - The candidates are Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 ###### - The candidates returns were 23.0% (85,213), 73.8% (272,892), and 3.1% (11,606) respectiverly.
@@ -26,3 +24,6 @@
 ###### - The county with the largest turnout was Denver.  
 
 ![alt text](https://github.com/Yoditatr/Election-Analysis/blob/main/election_analysis.PNG?raw=true)
+
+## Election Audit Summary
+###### This script can be used, with some modifications of the script, for any election. For example, if we wanted to analyze a federal congressional election, all we need to do is change the counties to states. Another example is if we had a local election, we will have to change candidates to in favor or against.
