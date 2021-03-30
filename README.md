@@ -25,4 +25,4 @@
 ###### - The County votes were 10.5% (38,855), 82.8% (306,055), and 6.7% (24,801) respectively
 ###### - The county with the largest turnout was Arapahoe 
 
-![alt text](https://github.com/Yoditatr/Kickstarter-analysis--YT/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+![alt text](https://github.com/Yoditatr/Election-Analysis/blob/main/election_analysis.PNG?raw=true)
